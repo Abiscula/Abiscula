@@ -1,7 +1,6 @@
 <h1>Olá, sou o Victor Abiscula!</h1>
 
-
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abiscula&label=Profile%20views&color=0e75b6&style=flat" alt="Abiscula" /></p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abiscula&label=Profile%20views&color=877657&style=flat" alt="Abiscula" /></p>
 
  <div>
   <a href="https://github.com/Abiscula">
