@@ -1,12 +1,12 @@
 <h1>Olá, sou o Victor Abiscula!</h1>
 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abiscula&label=Profile%20views&color=877657&style=flat" alt="Abiscula" /></p>
-
+<!-- 
  <div>
   <a href="https://github.com/Abiscula">
   <img align="top" height="200em" src="https://github-readme-stats.vercel.app/api?username=Abiscula&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abiscula&_count=16&theme=onedark"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
  
