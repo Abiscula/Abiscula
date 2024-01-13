@@ -1,18 +1,18 @@
 <h1>Olá, sou o Victor Abiscula!</h1>
 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Abiscula&label=Profile%20views&color=877657&style=flat" alt="Abiscula" /></p>
-<!-- 
- <div>
-  <a href="https://github.com/Abiscula">
-  <img align="top" height="200em" src="https://github-readme-stats.vercel.app/api?username=Abiscula&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abiscula&_count=16&theme=onedark"/>
-</div> -->
+
+<h3>About me:</h3>
+<ul>
+ <li>Software developer since 2021</li>
+ <li>Cabreuva - São Paulo</li>
+</ul>
+
 
 <div style="display: inline_block"><br>
- 
- 
+  <h3>Technologies:</h3>
   <img align="center" alt="Abiscula-ReactJS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" >
+  <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" >
   <img align="center" alt="Abiscula-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Abiscula-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Abiscula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
