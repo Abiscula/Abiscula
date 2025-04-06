@@ -8,6 +8,9 @@
  <li>Cabreuva - São Paulo</li>
 </ul>
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiscula&layout=donut-vertical&theme=dracula)
 
 <div style="display: inline_block"><br>
   <h3>Technologies:</h3>
@@ -17,6 +20,7 @@
   <img align="center" alt="Abiscula-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Abiscula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abiscula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Abiscula-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Abiscula-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Abiscula-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
