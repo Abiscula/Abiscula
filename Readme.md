@@ -5,7 +5,7 @@
 <h3>About me:</h3>
 <ul>
  <li>Software developer since 2021</li>
- <li>Cabreuva - São Paulo</li>
+ <li>São Paulo - SP</li>
 </ul>
 
 <br/>
